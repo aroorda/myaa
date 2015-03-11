@@ -36,7 +36,7 @@ en:
       "no": "No"
     main_content: "Please implement %{model}#main_content to display content."
     logout: "Logout"
-    powered_by: "Data, interface and layout are for illustrative purposes only."
+    powered_by: "Data, UI and layout are for illustrative purposes only."
     sidebars:
       filters: "Filters"
     pagination:
